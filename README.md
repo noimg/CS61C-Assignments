@@ -4,3 +4,9 @@
 
 The assignment starter repos are at https://github.com/61c-teach.
 
+## Details
+
+### Labs (sp26)
+
+- Lab 1: basic C syntax
+- Lab 2: detailed and step by step guidance on GDB, Valgrind and memory management
