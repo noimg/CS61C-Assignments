@@ -413,7 +413,8 @@ dkms.conf
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar 
+# manually remove this to include venus.jar
 *.war
 *.nar
 *.ear
